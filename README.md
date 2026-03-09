@@ -1,36 +1,51 @@
                          archivo de  toma de datos 🍼
                        _________________________________
 
+      se crea un clase con 5 atributos en ella  dentro de una funcion principal 
+      __init__ con el parametro self como palabra reservadad  para llamar a los parametros
+      se  crea una  funcion  para gurdar los datos del objecto.
 
- se crea una clase ()  el nombre de la clase  es tomaDeDatos   en ella tiene una parametros,
- con informacion de una individuo basica .
+      se crea un bucle while con una condicion en string  para ingresar los datos d elos usuarios,
+      dentro del bucle se encuntra 5 inpust  que tomas los datos pedidos  y se llama al objecto, para
+      ingresale sus parametros que se agregan por consola y se agrega  la función  append en el arrays goblas 
+      para almacenar los datos. 
 
-  se toma  subfuncion en la misma clase  con los sigiente para imprimir los datos por consola o terminal 
-  se agrega  los datos en un contrutos   quel primer datos son quemaso ,  luego se llama contrusto con la clase  sin algumeto () estos llama la funcion iunterna de
-  la clase  que esta  la fucion print  que muestra por consola 
-  
-  en la seguda toma de datos es por la funcion input que  toma los datos por consola que como su fuera una parte de un usuario interactuando
-
-  que aca se crea una funcion con  que se llama main  que es  principal  se agrean  las variavles como parametros 
-   y interna ella grabra en el objecto, en foirma  de tupla  se ase agrega este construtor  para almacenar todos  los datos 
-   ingresaso   se llmas lafincion se abreba las variables   pasa por la finciony llega a la case y se mustra los tados por consola
-
-
-   __________________________________________________________QUE ME FALTA  ME FLATA  QUE  ESTE QUEDE EN UNA DICIONARIUO ______________________
-
-  SI CREO: QUE UN DICIONARIONS {} DEMTRO DE UNA LIST[]     ? PERO DEBO DE TENER UN  BUCLE  QUE ME LLAME S LA FUNCION DE GURADAR,
-
-  sehace dos finciones  denro de la clase una toma en un dicionario y la otra la guarda en una arrays  
-  se crea un bucle while con ala condicion  de que si una persoan por consila iungrese datos   luego cin una baseja  le ponemos el meejae o la condicion  si  ingresa no sale del Archivo 
-
-error  futuro que se recorra y qeu renueve los datos para ingresar  en este momentos solo  mustra lo que se ingreso  unba ves ( un bucle for me puede sevir )
-
-    ___________________________________________________________________tarea ____________________________________________________________________________________
-
-solucionar  el nuevo almacenamiento del codigo para a que sea mas automatico  la toma del los dato:
+      luego  creamos un print  para dar conocimiento al usuario que es van a mostrar los datos tomados en un bucle for
+      que a a recorer el arrays  y va a imprimir  en consola.
 
 
 
+      class tomoDatos()
+          def__init__ (self):
+              variable = self.parametro 
+              
+          def nombreClase():
+            #dicicionario o objecto
+            return{
+            keyname: self.value,
+            }
+
+      arraysUniDimensional =[ ] # vacio para poder alsenar
+
+      VariableBandera = "decea ingresar datos"
+
+      #bucle 
+      while  variableBandsera === UPcaser " si ":
+      #entra 
+      #pide los datos por terminal 
+      parametro = "ingrese el parametro"
+
+      datos = tomaDeDatos(parametro)
+      
+      arrays.append(datos.funcionDicinarios())
+
+      variableBandera = "para saber si continuamos ingresando los datos "
+
+
+      #bloque de codigo para mostrar los datos 
+      print("hacer más amigable")
+      for d in arrays:
+        print(f"para organizar los parametos"parametro: {"d[nombre]}")
 
 
 
@@ -39,12 +54,16 @@ solucionar  el nuevo almacenamiento del codigo para a que sea mas automatico  la
 
 
 
-for i in range(N):
-  for j in range ():
-      print("x", end="" )
-   pritn()
 
-  🧟‍♀️ 
+
+          n =5
+          for i in range(N):
+            for j in range (n):
+                print("x", end="" )
+                     pritn()
+
+
+                                  🧟‍♀️ 
       
    
   
