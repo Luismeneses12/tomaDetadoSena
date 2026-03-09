@@ -43,3 +43,4 @@ while quieresIngresar.lower() == "si":
 print("\n los datos ingresados son :")
 for d in datos:
     print(f"Nombre: {d['nombre']}, Edad: {d['edad']}, Año de Nacimiento: {d['añoNacimiento']}, Teléfono: {d['telefono']}, Dirección: {d['direccion']}")
+    print(f"{d}")
